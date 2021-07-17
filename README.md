@@ -21,7 +21,7 @@
 - 애플 로그인 데모 : https://newrose2.livek.tv/apple_login.php
 
 
-# 참고 자료
+# 참고한 자료
 
 1. https://programmar.tistory.com/41?category=721123
 2. https://programmar.tistory.com/43?category=721123
