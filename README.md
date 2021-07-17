@@ -19,3 +19,12 @@
 # APPLE LOGIN DEMO
 
 - 애플 로그인 데모 : https://newrose2.livek.tv/apple_login.php
+
+
+# 참고 자료
+
+1. https://programmar.tistory.com/41?category=721123
+2. https://programmar.tistory.com/43?category=721123
+3. https://programmar.tistory.com/44?category=721123
+4. https://darkstart.tistory.com/116
+5. https://kedric-me.tistory.com/entry/Apple%EB%A1%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84web-and-other-platforms
